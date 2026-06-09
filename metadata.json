@@ -1,0 +1,6 @@
+{
+  "name": "Krishna Smart Library",
+  "description": "A high-performance academic library management dashboard for seat tracking, student administration, fee collection, and real-time announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
